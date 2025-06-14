@@ -14,7 +14,7 @@ const { useEffect } = require("react")
     9. what is Closure and explian with an example
     10. what is prototype in Js. read about hasownproperty ( w3school)
     11. Explain CallStack and EventLoop
-    12. practice some object Manulation Questions (**very very important**)
+    12. practice some object Manulation Questions (<mark>very very important</mark>)
     13. How to extract data from object and from the request we will receive from somewhere either blacbox or someApi
 
 
